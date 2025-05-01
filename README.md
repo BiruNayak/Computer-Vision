@@ -58,8 +58,8 @@ Display the closest matching color name and RGB values
 outputs
 Image Processing
 
-![image](https://github.com/user-attachments/assets/9a0b8b16-3253-4b78-b88a-0cd4c24b591d)
+
 
 Webcam
 
-![image](https://github.com/user-attachments/assets/7038d5f0-b7e2-412d-a819-2ffc66707f10)
+
