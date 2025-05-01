@@ -56,10 +56,13 @@ Allow you to click on any part of the feed to detect the color at that pixel
 Display the closest matching color name and RGB values
 
 outputs
+
 Image Processing
 
+![image](https://github.com/user-attachments/assets/18d53852-138c-4c23-bf1b-861382f452c1)
 
 
 Webcam
 
+![image](https://github.com/user-attachments/assets/8b895f85-abb2-408b-91b8-0730839c9e1c)
 
